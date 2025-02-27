@@ -5,7 +5,7 @@
 [English](#english) | [中文](#中文)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/bbylw/PicGo@master/20241220015300647.png" alt="WebNav Hub Preview" width="100%">
+  <img src="https://github.com/pusvsimg/claudep/blob/main/demo.png" alt="WebNav Hub Preview" width="100%">
 </div>
 
 <a name="english"></a>
